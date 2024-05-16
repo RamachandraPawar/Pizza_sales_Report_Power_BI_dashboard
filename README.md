@@ -1,5 +1,4 @@
 # Pizza_sales_Report_Power_BI_dashboard
-# Pizza Sales Report - Power BI Dashboard
 
 Welcome to the **Pizza Sales Report** repository! This repository contains all the necessary files and documentation to understand and replicate the Power BI dashboard designed to analyze pizza sales performance. The dashboard provides insights into total revenue, sales trends, best and worst selling pizzas, and more. 
 
@@ -52,3 +51,27 @@ You can view the live Power BI dashboard [here](https://app.powerbi.com/view?r=e
 1. **Clone the Repository**: 
    ```sh
    git clone https://github.com/RamachandraPawar/Pizza_sales_Report_Power_BI_dashboard.git
+2. **Open the Power BI File**:
+- **Open the Pizza_sales_dashboard.pbix file** in Power BI Desktop to explore the data models and visualizations.
+3. **Review Data Files**: 
+- Check the **pizza_sales.csv file** to understand the structure of the data used.
+  4. **Run SQL Script**: 
+- Use the **Pizza_Sales_report.sql script** to extract and transform the data if you are connecting to a SQL database.
+
+## Contributing
+We welcome contributions to improve the dashboard. Please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bugfix.
+3. Make your changes and commit them.
+4. Push your changes to your fork.
+5. Create a pull request with a detailed description of your changes.
+
+## License
+This project is licensed under the **MIT License**. See the LICENSE file for more details.
+
+## Contact
+For any questions or feedback, please open an issue in the repository or contact us at `ramupawar1630@gmail.com`.
+
+Thank you for visiting our repository! We hope you find the Pizza Sales Report dashboard insightful and useful.
+
