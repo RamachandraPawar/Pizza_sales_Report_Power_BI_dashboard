@@ -29,10 +29,10 @@ The Power BI dashboard offers a comprehensive view of pizza sales data. Below is
 ## Screenshots
 
 ### Main Dashboard View
-![Main Dashboard](Pizza_sales_Report_Power_BI_dashboard/Screenshot_main_dashboard.png)
+![Main Dashboard](Screenshot_main_dashboard.png)
 
 ### Detailed Insights View
-![Detailed Insights](Pizza_sales_Report_Power_BI_dashboard/Screenshot_Detailed_Insights.png)
+![Detailed Insights](Screenshot_Detailed_Insights.png)
 
 ## How to Access the Dashboard
 
